@@ -253,7 +253,7 @@ const posts = [
       name: "Michael Foster",
       role: "Co-Founder / CTO",
       href: "https://www.behance.net/gallery/198229151/Personal-Website-(AwinataX)",
-      imageUrl: "/public/work/p1.png", // Gambar placeholder
+      imageUrl: "./hero/p1.png", // Gambar placeholder
     },
     marketingTags: ["Figma"], // Menambahkan tag marketing sebagai contoh
   },
@@ -272,7 +272,7 @@ const posts = [
       name: "Michael Foster",
       role: "Co-Founder / CTO",
       href: "https://www.behance.net/gallery/198230843/AwinataX-New-Logo",
-      imageUrl: "/public/work/p2.png", // Gambar placeholder
+      imageUrl: "./hero/p2.png", // Gambar placeholder
     },
     marketingTags: ["CorelDRAW"], // Menambahkan tag marketing sebagai contoh
   },
@@ -292,7 +292,7 @@ const posts = [
       name: "Michael Foster",
       role: "Co-Founder / CTO",
       href: "https://www.behance.net/gallery/198231291/Sengoku-Basara-(UI-Design)",
-      imageUrl: "/public/work/p3.png",
+      imageUrl: "./hero/p3.png",
     },
     marketingTags: ["CorelDRAW", "Figma"],
   },
@@ -312,7 +312,7 @@ const posts = [
       name: "Michael Foster",
       role: "Co-Founder / CTO",
       href: "https://www.behance.net/gallery/198520153/1-Logo-Animation",
-      imageUrl: "/work/L1.png",
+      imageUrl: "./hero/L1.png",
     },
     marketingTags: ["Adobe After Effect"],
   },
