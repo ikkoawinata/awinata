@@ -743,7 +743,7 @@ export default function Example() {
               A showreel of my personal projects and work that I have done for various.
             </h2>
             <div className="mt-4">
-              <div className="button-group">
+              <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-4">
                 <Button
                   className={`button ${activeSection === "projects" ? "active" : ""}`}
                   onClick={() => handleButtonClick("projects")}
