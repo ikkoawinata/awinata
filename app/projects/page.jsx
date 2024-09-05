@@ -474,12 +474,12 @@ const design = [
   {
     id: 10,
     title: "Protect Your Privacy If You Wanna Alive ",
-    href: "/design1/",
+    href: "./design1/",
     description:
       'Cyber Security Competition Activities in 2022 with the theme "Protect Your Privacy For Millennial Generation" organized by the Informatics Engineering Student Association Faculty of Engineering, Surabaya State University',
     date: "September 19, 2022",
     datetime: "2024-08  -10",
-    category: { title: "More", href: "/app/design1/page.jsx/" },
+    category: { title: "More", href: "./design1/" },
     author: {
       name: "Michael Foster",
       role: "Co-Founder / CTO",
@@ -491,12 +491,12 @@ const design = [
   {
     id: 11,
     title: "3rd Place in Infographic Challenge",
-    href: "/design2/",
+    href: "./design2/",
     description:
       'Cyber Security Competition Activities in 2022 with the theme "Protect Your Privacy For Millennial Generation" organized by the Informatics Engineering Student Association Faculty of Engineering, Surabaya State University',
     date: "June 25, 2022",
     datetime: "2022-06-25",
-    category: { title: "More", href: "/design2/" },
+    category: { title: "More", href: "./design2/" },
     author: {
       name: "Michael Foster",
       role: "Co-Founder / CTO",
@@ -508,12 +508,12 @@ const design = [
   {
     id: 12,
     title: "Perkembangan Teknologi Informasi Era Digital 5.0",
-    href: "/design3/",
+    href: "./design3/",
     description:
       'Graphic Design Training Activities with the theme "Explore Your Passion, Build Your Imagination with Your Design Creation", organized by the Science Department Student Association, Faculty of Mathematics and Natural Sciences, Surabaya State University',
     date: "October 20, 2022",
     datetime: "2022-06-25",
-    category: { title: "More", href: "/design3/" },
+    category: { title: "More", href: "./design3/" },
     author: {
       name: "Michael Foster",
       role: "Co-Founder / CTO",
@@ -525,12 +525,12 @@ const design = [
   {
     id: 14,
     title: "Lestarikan Alam Hijau Untuk Masa Depan Bumi Kita ",
-    href: "/design4/",
+    href: "./design4/",
     description:
       "Graphic Design Webinar Activity organized by IMJ UNESA (Jombang Student Association, Surabaya State University)",
     date: "October 20, 2022",
     datetime: "2022-06-25",
-    category: { title: "More", href: "/design4/" },
+    category: { title: "More", href: "./design4/" },
     author: {
       name: "Michael Foster",
       role: "Co-Founder / CTO",
