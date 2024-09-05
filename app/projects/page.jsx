@@ -234,6 +234,7 @@ import Card from "@/components/Card";
 import { Button } from "@/components/ui/button"; // Adjust import path if necessary
 import { motion } from "framer-motion";
 import "./styles.css"; // Import the CSS file
+import Image from "next/image";
 
 const posts = [
   {
@@ -311,7 +312,7 @@ const posts = [
       name: "Michael Foster",
       role: "Co-Founder / CTO",
       href: "https://www.behance.net/gallery/198520153/1-Logo-Animation",
-      imageUrl: "/public/work/L1.png",
+      imageUrl: "/work/L1.png",
     },
     marketingTags: ["Adobe After Effect"],
   },
