@@ -235,6 +235,7 @@ import { Button } from "@/components/ui/button"; // Adjust import path if necess
 import { motion } from "framer-motion";
 import "./styles.css"; // Import the CSS file
 import Image from "next/image";
+import Link from "next/link";
 
 const posts = [
   {
@@ -474,7 +475,7 @@ const design = [
   {
     id: 10,
     title: "Protect Your Privacy If You Wanna Alive ",
-    href: "./design1/",
+    href: "./app/design1/",
     description:
       'Cyber Security Competition Activities in 2022 with the theme "Protect Your Privacy For Millennial Generation" organized by the Informatics Engineering Student Association Faculty of Engineering, Surabaya State University',
     date: "September 19, 2022",
@@ -484,19 +485,19 @@ const design = [
       name: "Michael Foster",
       role: "Co-Founder / CTO",
       href: "",
-      imageUrl: "./hero/port1.png", // Gambar placeholder
+      imageUrl: "/app/design1/", // Gambar placeholder
     },
     marketingTags: ["CorelDRAW"], // Menambahkan tag marketing sebagai contoh
   },
   {
     id: 11,
     title: "3rd Place in Infographic Challenge",
-    href: "./design2/",
+    href: "./app/design2/",
     description:
       'Cyber Security Competition Activities in 2022 with the theme "Protect Your Privacy For Millennial Generation" organized by the Informatics Engineering Student Association Faculty of Engineering, Surabaya State University',
     date: "June 25, 2022",
     datetime: "2022-06-25",
-    category: { title: "More", href: "./design2/" },
+    category: { title: "More", href: "/app/design2/" },
     author: {
       name: "Michael Foster",
       role: "Co-Founder / CTO",
@@ -508,12 +509,12 @@ const design = [
   {
     id: 12,
     title: "Perkembangan Teknologi Informasi Era Digital 5.0",
-    href: "./design3/",
+    href: "./app/design3/",
     description:
       'Graphic Design Training Activities with the theme "Explore Your Passion, Build Your Imagination with Your Design Creation", organized by the Science Department Student Association, Faculty of Mathematics and Natural Sciences, Surabaya State University',
     date: "October 20, 2022",
     datetime: "2022-06-25",
-    category: { title: "More", href: "./design3/" },
+    category: { title: "More", href: "/app/design3/" },
     author: {
       name: "Michael Foster",
       role: "Co-Founder / CTO",
@@ -525,12 +526,12 @@ const design = [
   {
     id: 14,
     title: "Lestarikan Alam Hijau Untuk Masa Depan Bumi Kita ",
-    href: "./design4/",
+    href: "./app/design4/",
     description:
       "Graphic Design Webinar Activity organized by IMJ UNESA (Jombang Student Association, Surabaya State University)",
     date: "October 20, 2022",
     datetime: "2022-06-25",
-    category: { title: "More", href: "./design4/" },
+    category: { title: "More", href: "/app/design4/" },
     author: {
       name: "Michael Foster",
       role: "Co-Founder / CTO",
@@ -548,7 +549,7 @@ const photography = [
     description:
       '',
     date: "",
-    datetime: "2024-08  -10",
+    datetime: "2024-08-10",
     category: { title: "More", href: "" },
     author: {
       name: "Michael Foster",
