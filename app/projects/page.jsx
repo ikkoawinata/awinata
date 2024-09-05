@@ -332,7 +332,7 @@ const posts = [
       name: "Michael Foster",
       role: "Co-Founder / CTO",
       href: "https://www.behance.net/gallery/199109427/2-Stomp-Typography-After-Effects-Edit-Project-2",
-      imageUrl: "/work/intro.png", // Gambar placeholder
+      imageUrl: "./hero/intro.png", // Gambar placeholder
     },
     marketingTags: ["Adobe After Effect"], // Menambahkan tag marketing sebagai contoh
   },
@@ -352,7 +352,7 @@ const posts = [
       name: "Michael Foster",
       role: "Co-Founder / CTO",
       href: "https://www.behance.net/gallery/200099671/CloudBeauty-Register-Page-(UI-Design)",
-      imageUrl: "/work/beauty.png", // Gambar placeholder
+      imageUrl: "./hero/beauty.png", // Gambar placeholder
     },
     marketingTags: ["CorelDRAW", "Figma"], // Menambahkan tag marketing sebagai contoh
   },
@@ -373,7 +373,7 @@ const posts = [
       name: "Michael Foster",
       role: "Co-Founder / CTO",
       href: "https://www.behance.net/gallery/201660997/Interactive-Tab-Bar-Menu",
-      imageUrl: "/work/p6.png", // Gambar placeholder
+      imageUrl: "./hero/p6.png", // Gambar placeholder
     },
     marketingTags: ["Figma"], // Menambahkan tag marketing sebagai contoh
   },
@@ -393,7 +393,7 @@ const posts = [
       name: "Michael Foster",
       role: "Co-Founder / CTO",
       href: "https://www.behance.net/gallery/202859285/Redesign-Website-Unilever-Indonesia",
-      imageUrl: "/work/p5.png", // Gambar placeholder
+      imageUrl: "./hero/p5.png", // Gambar placeholder
     },
     marketingTags: ["Figma"], // Menambahkan tag marketing sebagai contoh
   },
@@ -413,7 +413,7 @@ const posts = [
       name: "Michael Foster",
       role: "Co-Founder / CTO",
       href: "https://github.com/ikkoawinata/MultiCalcPro-app/tree/ikkoawinata.github.io",
-      imageUrl: "/work/multicalcpro.png", // Gambar placeholder
+      imageUrl: "./hero/multicalcpro.png", // Gambar placeholder
     },
     marketingTags: ["Bootstrap"], // Menambahkan tag marketing sebagai contoh
   },
@@ -430,7 +430,7 @@ const posts = [
       name: "Michael Foster",
       role: "Co-Founder / CTO",
       href: "",
-      imageUrl: "/work/jaringan1.png", // Gambar placeholder
+      imageUrl: "./hero/jaringan1.png", // Gambar placeholder
     },
     marketingTags: ["Cisco Packet Tracer"], // Menambahkan tag marketing sebagai contoh
   },
@@ -447,7 +447,7 @@ const posts = [
       name: "Michael Foster",
       role: "Co-Founder / CTO",
       href: "https://awinatax.vercel.app/",
-      imageUrl: "/work/web1.png", // Gambar placeholder
+      imageUrl: "./hero/web1.png", // Gambar placeholder
     },
     marketingTags: ["Bootstrap"], // Menambahkan tag marketing sebagai contoh
   },
@@ -464,7 +464,7 @@ const posts = [
       name: "Michael Foster",
       role: "Co-Founder / CTO",
       href: "",
-      imageUrl: "/work/web2.png", // Gambar placeholder
+      imageUrl: "./hero/web2.png", // Gambar placeholder
     },
     marketingTags: ["Reactjs", "Tailwind", "Framer Motion"], // Menambahkan tag marketing sebagai contoh
   },
@@ -484,7 +484,7 @@ const design = [
       name: "Michael Foster",
       role: "Co-Founder / CTO",
       href: "",
-      imageUrl: "/work/port1.png", // Gambar placeholder
+      imageUrl: "./hero/port1.png", // Gambar placeholder
     },
     marketingTags: ["CorelDRAW"], // Menambahkan tag marketing sebagai contoh
   },
@@ -501,7 +501,7 @@ const design = [
       name: "Michael Foster",
       role: "Co-Founder / CTO",
       href: "",
-      imageUrl: "/work/port3.png", // Gambar placeholder
+      imageUrl: "./hero/port3.png", // Gambar placeholder
     },
     marketingTags: ["CorelDRAW"], // Menambahkan tag marketing sebagai contoh
   },
@@ -518,7 +518,7 @@ const design = [
       name: "Michael Foster",
       role: "Co-Founder / CTO",
       href: "",
-      imageUrl: "/work/port2.png", // Gambar placeholder
+      imageUrl: "./hero/port2.png", // Gambar placeholder
     },
     marketingTags: ["CorelDRAW"], // Menambahkan tag marketing sebagai contoh
   },
@@ -535,7 +535,7 @@ const design = [
       name: "Michael Foster",
       role: "Co-Founder / CTO",
       href: "",
-      imageUrl: "/work/port4.jpg", // Gambar placeholder
+      imageUrl: "./hero/port4.jpg", // Gambar placeholder
     },
     marketingTags: ["CorelDRAW"], // Menambahkan tag marketing sebagai contoh
   },
@@ -553,7 +553,7 @@ const photography = [
     author: {
       name: "Michael Foster",
       role: "Co-Founder / CTO",
-      imageUrl: "/work/satu.jpg", // Gambar placeholder
+      imageUrl: "./hero/satu.jpg", // Gambar placeholder
     } // Menambahkan tag marketing sebagai contoh
   },
   {
@@ -567,7 +567,7 @@ const photography = [
     author: {
       name: "Michael Foster",
       role: "Co-Founder / CTO",
-      imageUrl: "/work/dua.jpg", // Gambar placeholder
+      imageUrl: "./hero/dua.jpg", // Gambar placeholder
     } // Menambahkan tag marketing sebagai contoh
   },
   {
@@ -581,7 +581,7 @@ const photography = [
     author: {
       name: "Michael Foster",
       role: "Co-Founder / CTO",
-      imageUrl: "/work/tiga.jpg", // Gambar placeholder
+      imageUrl: "./hero/tiga.jpg", // Gambar placeholder
     } // Menambahkan tag marketing sebagai contoh
   },
   {
@@ -595,7 +595,7 @@ const photography = [
     author: {
       name: "Michael Foster",
       role: "Co-Founder / CTO",
-      imageUrl: "/work/empat.jpg", // Gambar placeholder
+      imageUrl: "./hero/empat.jpg", // Gambar placeholder
     } // Menambahkan tag marketing sebagai contoh
   },
   {
@@ -609,7 +609,7 @@ const photography = [
     author: {
       name: "Michael Foster",
       role: "Co-Founder / CTO",
-      imageUrl: "/work/lima.jpg", // Gambar placeholder
+      imageUrl: "./hero/lima.jpg", // Gambar placeholder
     } // Menambahkan tag marketing sebagai contoh
   },
   {
@@ -623,7 +623,7 @@ const photography = [
     author: {
       name: "Michael Foster",
       role: "Co-Founder / CTO",
-      imageUrl: "/work/enam.jpg", // Gambar placeholder
+      imageUrl: "./hero/enam.jpg", // Gambar placeholder
     } // Menambahkan tag marketing sebagai contoh
   },
   {
@@ -637,7 +637,7 @@ const photography = [
     author: {
       name: "Michael Foster",
       role: "Co-Founder / CTO",
-      imageUrl: "/work/tujuh.jpg", // Gambar placeholder
+      imageUrl: "./hero/tujuh.jpg", // Gambar placeholder
     } // Menambahkan tag marketing sebagai contoh
   },
   {
@@ -651,7 +651,7 @@ const photography = [
     author: {
       name: "Michael Foster",
       role: "Co-Founder / CTO",
-      imageUrl: "/work/delapan.jpg", // Gambar placeholder
+      imageUrl: "./hero/delapan.jpg", // Gambar placeholder
     } // Menambahkan tag marketing sebagai contoh
   },
   {
@@ -665,7 +665,7 @@ const photography = [
     author: {
       name: "Michael Foster",
       role: "Co-Founder / CTO",
-      imageUrl: "/work/sembilan.jpg", // Gambar placeholder
+      imageUrl: "./hero/sembilan.jpg", // Gambar placeholder
     } // Menambahkan tag marketing sebagai contoh
   },
   {
@@ -679,7 +679,7 @@ const photography = [
     author: {
       name: "Michael Foster",
       role: "Co-Founder / CTO",
-      imageUrl: "/work/sepuluh.jpg", // Gambar placeholder
+      imageUrl: "./hero/sepuluh.jpg", // Gambar placeholder
     } // Menambahkan tag marketing sebagai contoh
   },
   {
@@ -693,7 +693,7 @@ const photography = [
     author: {
       name: "Michael Foster",
       role: "Co-Founder / CTO",
-      imageUrl: "/work/sebelas.jpg", // Gambar placeholder
+      imageUrl: "./hero/sebelas.jpg", // Gambar placeholder
     } // Menambahkan tag marketing sebagai contoh
   },
   {
@@ -707,7 +707,7 @@ const photography = [
     author: {
       name: "Michael Foster",
       role: "Co-Founder / CTO",
-      imageUrl: "/work/duabelas.png", // Gambar placeholder
+      imageUrl: "./hero/duabelas.png", // Gambar placeholder
     } // Menambahkan tag marketing sebagai contoh
   },
  
