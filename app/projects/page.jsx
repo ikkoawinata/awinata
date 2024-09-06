@@ -484,7 +484,7 @@ const design = [
   {
     id: 13,
     title: "PROTECT YOUR PRIVACY IF YOU WANNA ALIVE",
-    href: "./design2",
+    href: "./design1",
     description:
       'Cyber Security Competition Activities in 2022 with the theme "Protect Your Privacy For Millennial Generation" organized by the Informatics Engineering Student Association Faculty of Engineering, Surabaya State University',
     date: "June 25, 2022",

@@ -6,6 +6,7 @@ import { useState } from "react"; // Import useState to manage state
 import { ChevronRight } from "lucide-react"; // Import ChevronRight icon
 import Card from "@/components/Card"; // If you're using this, ensure it's used in the component
 import "./computer.css";
+import Image from "next/image";
 
 const Candidates = () => {
   // State for storing the clicked button information
@@ -18,7 +19,7 @@ const Candidates = () => {
           {/* Image with Description */}
           <div className="w-full max-w-md mx-auto p-4 md:p-6 xl:p-8">
             <img
-              src="/work/port3.png"
+              src="./hero/port3.png"
               alt="Descriptive Alt Text"
               className="w-full h-auto object-cover"
             />
