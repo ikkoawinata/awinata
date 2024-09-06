@@ -65,7 +65,7 @@ const links = [
   { path: "/projects", name: "Projects" },
   // { path: "/blog", name: "Blog" },
   { path: "/service", name: "Service" },
-  { path: "/projects/computernetwork", name: "" },
+  { path: "/computernetwork", name: "" },
   // { path: "/contact", name: "Contact" },
 
 ];
