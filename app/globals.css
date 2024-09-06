@@ -108,6 +108,10 @@
 }
 
 
+.bg-hero {
+  background-image: url(/public/hero/wave-bg.png);
+}
+
 /* Mengurangi padding pada footer */
 footer {
   padding-top: 10rem; /* Sesuaikan nilai ini untuk kebutuhanmu */

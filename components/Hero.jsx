@@ -86,7 +86,7 @@ import Socials from "@/components/Socials"; // Pastikan jalur ini benar
 import { RiArrowDownSLine } from "react-icons/ri";
 import Image from "next/image";
 // import { Download, Send } from "lucide-react";
-
+import "/app/globals.css";
 
 const Hero = () => {
   return (
