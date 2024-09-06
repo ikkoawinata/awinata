@@ -474,7 +474,7 @@ const posts = [
 const design = [
   {
     id: 13,
-    title: "3rd Place in Infographic Challenge",
+    title: "PROTECT YOUR PRIVACY IF YOU WANNA ALIVE",
     href: "./app/design2/",
     description:
       'Cyber Security Competition Activities in 2022 with the theme "Protect Your Privacy For Millennial Generation" organized by the Informatics Engineering Student Association Faculty of Engineering, Surabaya State University',
@@ -698,7 +698,7 @@ const photography = [
     } // Menambahkan tag marketing sebagai contoh
   },
   {
-    id: 25,
+    id: 28,
     title: " ",
     description:
       '',
