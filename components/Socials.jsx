@@ -21,23 +21,23 @@ const icons = [
   //   name: <LuFigma />,
   // },
   {
-    path: "/",
+    path: "https://www.linkedin.com/in/ikko-cahya-awinata-182926253/",
     name: <RiLinkedinFill />,
   },
   {
-    path: "/",
+    path: "https://github.com/ikkoawinata",
     name: <RiGithubFill />,
   },
   {
-    path: "/",
+    path: "https://www.behance.net/gallery/198231291/Sengoku-Basara-(UI-Design)",
     name: <RiBehanceFill />,
   },
   {
-    path: "/",
+    path: "https://www.instagram.com/ikkoc_awinata/",
     name: <RiInstagramFill />,
   },
   {
-    path: "/",
+    path: "mailto:ikkocahyaawinata@gmail.com",
     name: <RiMailFill />,
   },
 ];

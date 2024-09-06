@@ -375,7 +375,7 @@ import { FaReact } from "react-icons/fa";
 import { SiAdobepremierepro } from "react-icons/si";
 import { FaVuejs } from "react-icons/fa";
 import { SiTailwindcss } from "react-icons/si";
-import { SiPhp } from "react-icons/si";
+import { RiNextjsFill } from "react-icons/ri";
 import { FaBootstrap } from "react-icons/fa";
 import { SiWondersharefilmora } from "react-icons/si";
 import { FaGitAlt } from "react-icons/fa6";
@@ -386,6 +386,7 @@ import { IoLogoVercel } from "react-icons/io5";
 import { SiVisualstudiocode } from "react-icons/si";
 import { SiMysql } from "react-icons/si";
 import { usePathname } from "next/navigation";
+import Image from "next/image";
 
 
 
@@ -489,7 +490,7 @@ const BrandingSection = () => {
         <SiTailwindcss className="text-4xl-skill hover:transform hover:scale-110  transition-all duration-300 ease-in-out" />
       </div>
       <div className="flex justify-center items-center">
-        <SiPhp className="text-4xl-skill hover:transform hover:scale-110  transition-all duration-300 ease-in-out" />
+        <RiNextjsFill className="text-4xl-skill hover:transform hover:scale-110  transition-all duration-300 ease-in-out" />
       </div>
       <div className="flex justify-center items-center">
         <FaBootstrap className="text-4xl-skill hover:transform hover:scale-110  transition-all duration-300 ease-in-out" />

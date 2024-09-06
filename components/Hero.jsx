@@ -85,7 +85,7 @@ import Badge from "@/components/Badge"; // Pastikan jalur ini benar
 import Socials from "@/components/Socials"; // Pastikan jalur ini benar
 import { RiArrowDownSLine } from "react-icons/ri";
 import Image from "next/image";
-import "/app/home/tentang.css";
+import "./hero.css";
 
 
 const Hero = () => {

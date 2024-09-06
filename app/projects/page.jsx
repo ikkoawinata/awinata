@@ -464,9 +464,9 @@ const posts = [
   {
     id: 12,
     title: "Second Personal Website Development",
-    href: "",
+    href: "https://ikkoawinata.github.io/awinata/",
     description:
-      " - ",
+      " Build development from the first personal website before. This project using NextJS, Tailwind, Framer Motion for little animation view",
     date: "September 5, 2024",
     datetime: "2024-08  -10",
     category: { title: "More", href: "" },
@@ -476,7 +476,24 @@ const posts = [
       href: "",
       imageUrl: "./hero/web2.png", // Gambar placeholder
     },
-    marketingTags: ["Reactjs", "Tailwind", "Framer Motion"], // Menambahkan tag marketing sebagai contoh
+    marketingTags: ["Reactjs", "Tailwind", "Framer Motion", "NextJS"], // Menambahkan tag marketing sebagai contoh
+  },
+  {
+    id: 29,
+    title: "Currency Converter",
+    href: "https://ikkoawinata.github.io/matauang/",
+    description:
+      "This project was created using ReactJS and Tailwind framework. This project is to convert money from several currencies in the world",
+    date: "August 27, 2024",
+    datetime: "2024-08  -10",
+    category: { title: "More", href: "https://ikkoawinata.github.io/matauang/" },
+    author: {
+      name: "Michael Foster",
+      role: "Co-Founder / CTO",
+      href: "",
+      imageUrl: "./hero/matauang.png", // Gambar placeholder
+    },
+    marketingTags: ["Reactjs", "Tailwind"], // Menambahkan tag marketing sebagai contoh
   },
 ];
 
