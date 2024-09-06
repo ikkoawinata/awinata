@@ -484,12 +484,12 @@ const design = [
   {
     id: 13,
     title: "PROTECT YOUR PRIVACY IF YOU WANNA ALIVE",
-    href: "./design2/",
+    href: "./design2",
     description:
       'Cyber Security Competition Activities in 2022 with the theme "Protect Your Privacy For Millennial Generation" organized by the Informatics Engineering Student Association Faculty of Engineering, Surabaya State University',
     date: "June 25, 2022",
     datetime: "2022-06-25",
-    category: { title: "More", href: "./design2/" },
+    category: { title: "More", href: "./design2" },
     author: {
       name: "Michael Foster",
       role: "Co-Founder / CTO",
@@ -501,12 +501,12 @@ const design = [
   {
     id: 14,
     title: "3rd Place in Infographic Challenge",
-    href: "./design2/",
+    href: "./design2",
     description:
       "Organized by the GEMA UNESA Campus Press Institute with the theme Take Your Infographic to the Next Level with Illustrations",
     date: "June 25, 2022",
     datetime: "2022-06-25",
-    category: { title: "More", href: "./design2/" },
+    category: { title: "More", href: "./design2" },
     author: {
       name: "Michael Foster",
       role: "Co-Founder / CTO",
@@ -518,12 +518,12 @@ const design = [
   {
     id: 15,
     title: "Perkembangan Teknologi Informasi Era Digital 5.0",
-    href: "./design3/",
+    href: "./design3",
     description:
       'Graphic Design Training Activities with the theme "Explore Your Passion, Build Your Imagination with Your Design Creation", organized by the Science Department Student Association, Faculty of Mathematics and Natural Sciences, Surabaya State University',
     date: "October 20, 2022",
     datetime: "2022-06-25",
-    category: { title: "More", href: "./design3/" },
+    category: { title: "More", href: "./design3" },
     author: {
       name: "Michael Foster",
       role: "Co-Founder / CTO",
@@ -535,12 +535,12 @@ const design = [
   {
     id: 16,
     title: "Lestarikan Alam Hijau Untuk Masa Depan Bumi Kita ",
-    href: "./design4/",
+    href: "./design4",
     description:
       "Graphic Design Webinar Activity organized by IMJ UNESA (Jombang Student Association, Surabaya State University)",
     date: "October 20, 2022",
     datetime: "2022-06-25",
-    category: { title: "More", href: "./design4/" },
+    category: { title: "More", href: "./design4" },
     author: {
       name: "Michael Foster",
       role: "Co-Founder / CTO",
