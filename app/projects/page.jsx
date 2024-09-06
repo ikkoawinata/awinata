@@ -485,7 +485,7 @@ const design = [
       name: "Michael Foster",
       role: "Co-Founder / CTO",
       href: "",
-      imageUrl: "./hero/port3.png", // Gambar placeholder
+      imageUrl: "./hero/port1.png", // Gambar placeholder
     },
     marketingTags: ["CorelDRAW"], // Menambahkan tag marketing sebagai contoh
   },
@@ -494,7 +494,7 @@ const design = [
     title: "3rd Place in Infographic Challenge",
     href: "./app/design2/",
     description:
-      'Cyber Security Competition Activities in 2022 with the theme "Protect Your Privacy For Millennial Generation" organized by the Informatics Engineering Student Association Faculty of Engineering, Surabaya State University',
+      "Organized by the GEMA UNESA Campus Press Institute with the theme Take Your Infographic to the Next Level with Illustrations",
     date: "June 25, 2022",
     datetime: "2022-06-25",
     category: { title: "More", href: "/app/design2/" },
