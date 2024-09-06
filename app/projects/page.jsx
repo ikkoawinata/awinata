@@ -485,7 +485,7 @@ const design = [
       name: "Michael Foster",
       role: "Co-Founder / CTO",
       href: "",
-      imageUrl: "/app/design1/", // Gambar placeholder
+      imageUrl: "./hero/port1.png/", // Gambar placeholder
     },
     marketingTags: ["CorelDRAW"], // Menambahkan tag marketing sebagai contoh
   },
