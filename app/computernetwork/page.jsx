@@ -17,7 +17,7 @@ const Candidates = () => {
         {/* Image with Description */}
         <div className="w-full max-w-md mx-auto p-4">
           <img 
-            src="/work/jaringan1.png" 
+            src="./hero/jaringan1.png" 
             alt="Descriptive Alt Text" 
             className="w-full h-auto object-cover"
           />

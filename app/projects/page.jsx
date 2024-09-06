@@ -489,7 +489,7 @@ const design = [
       'Cyber Security Competition Activities in 2022 with the theme "Protect Your Privacy For Millennial Generation" organized by the Informatics Engineering Student Association Faculty of Engineering, Surabaya State University',
     date: "June 25, 2022",
     datetime: "2022-06-25",
-    category: { title: "More", href: "./design2" },
+    category: { title: "More", href: "./design1" },
     author: {
       name: "Michael Foster",
       role: "Co-Founder / CTO",
