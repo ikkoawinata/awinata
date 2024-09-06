@@ -241,7 +241,7 @@ function Services() {
             {/* Service 1 */}
             <div className="bg-slate-100 dark:bg-gray-900 rounded-lg shadow-lg overflow-hidden flex flex-col lg:flex-row items-center">
               <img
-                src="/work/jasa1.png"
+                src="./hero/jasa1.png"
                 alt="Service 1"
                 className="w-full lg:w-1/4 object-fill"
               />
@@ -277,7 +277,7 @@ function Services() {
             {/* Service 2 */}
             <div className="bg-slate-100 dark:bg-gray-900 rounded-lg shadow-lg overflow-hidden flex flex-col lg:flex-row items-center">
               <img
-                src="/work/jasa2.png"
+                src="./hero/jasa2.png"
                 alt="Service 2"
                 className="w-full lg:w-1/4 object-cover"
               />
@@ -302,7 +302,7 @@ function Services() {
             {/* Service 3 */}
             <div className="bg-slate-100 dark:bg-gray-900 rounded-lg shadow-lg overflow-hidden flex flex-col lg:flex-row items-center">
               <img
-                src="/work/jasa3.jpg"
+                src="./hero/jasa3.jpg"
                 alt="Service 3"
                 className="w-full lg:w-1/4 object-cover"
               />
@@ -330,7 +330,7 @@ function Services() {
             {/* Service 4 */}
             <div className="bg-slate-100 dark:bg-gray-900 rounded-lg shadow-lg overflow-hidden flex flex-col lg:flex-row items-center">
               <img
-                src="/work/jasa4.jpg"
+                src="./hero/jasa4.jpg"
                 alt="Service 4"
                 className="w-full lg:w-1/4 object-cover"
               />
@@ -354,7 +354,7 @@ function Services() {
             {/* Service 5 */}
             <div className="bg-slate-100 dark:bg-gray-900 rounded-lg shadow-lg overflow-hidden flex flex-col lg:flex-row items-center">
               <img
-                src="/work/jasa5.jpg"
+                src="./hero/jasa5.jpg"
                 alt="Service 5"
                 className="w-full lg:w-1/4 object-cover"
               />
@@ -397,7 +397,7 @@ function Services() {
             {/* Service 1 */}
             <div className="bg-white dark:bg-gray-900 rounded-lg shadow-lg overflow-hidden flex flex-col lg:flex-row items-center">
               <img
-                src="/work/list1.png"
+                src="./hero/list1.png"
                 alt="Service 1"
                 className="w-full lg:w-1/3 object-cover"
               />
@@ -423,7 +423,7 @@ function Services() {
             {/* Service 2 */}
             <div className="bg-white late-100 dark:bg-gray-900 rounded-lg shadow-lg overflow-hidden flex flex-col lg:flex-row items-center">
               <img
-                src="/work/list2.png"
+                src="./hero/list2.png"
                 alt="Service 2"
                 className="w-full lg:w-1/3 object-cover"
               />
@@ -446,7 +446,7 @@ function Services() {
             {/* Service 3 */}
             <div className="bg-white late-100 dark:bg-gray-900 rounded-lg shadow-lg overflow-hidden flex flex-col lg:flex-row items-center">
               <img
-                src="/work/list3.png"
+                src="./hero/list3.png"
                 alt="Service 2"
                 className="w-full lg:w-1/3 object-cover"
               />
@@ -470,7 +470,7 @@ function Services() {
             {/* Service 4 */}
             <div className="bg-white late-100 dark:bg-gray-900 rounded-lg shadow-lg overflow-hidden flex flex-col lg:flex-row items-center">
               <img
-                src="/work/list4.png"
+                src="./hero/list4.png"
                 alt="Service 2"
                 className="w-full lg:w-1/3 object-cover"
               />
@@ -493,7 +493,7 @@ function Services() {
             {/* Service 5 */}
             <div className="bg-white late-100 dark:bg-gray-900 rounded-lg shadow-lg overflow-hidden flex flex-col lg:flex-row items-center">
               <img
-                src="/work/List5.png"
+                src="./hero/List5.png"
                 alt="Service 2"
                 className="w-full lg:w-1/3 object-cover"
               />
@@ -519,7 +519,7 @@ function Services() {
             {/* Service 6 */}
             <div className="bg-white dark:bg-gray-900 rounded-lg shadow-lg overflow-hidden flex flex-col lg:flex-row items-center">
               <img
-                src="/work/List6.PNG"
+                src="./hero/List6.PNG"
                 alt="Service 5"
                 className="w-full lg:w-1/3 object-cover"
               />
@@ -559,7 +559,7 @@ function Services() {
               {/* Gambar di sebelah kiri atau di atas pada breakpoints kecil */}
               <div className="flex-none w-full lg:w-1/2 p-2">
                 <img
-                  src="/work/wallet1.png"
+                  src="./hero/wallet1.png"
                   alt="IKKO Awinata Cell Services"
                   className="rounded-lg w-72 shadow-2xl"
                 />
@@ -572,7 +572,7 @@ function Services() {
                   ShopeePay and
                 </p>
                 <div>
-                  <img src="/work/byr.png" alt="" className="w-full mt-14" />
+                  <img src="./hero/byr.png" alt="" className="w-full mt-14" />
                 </div>
                 <Button
                   className="mt-4 px-3 mr-2 py-2 bg-primary text-white rounded-xl transition transform group-hover:scale-105"
