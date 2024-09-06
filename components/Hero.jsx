@@ -141,7 +141,7 @@ import "./hero.css";
 
 const Hero = () => {
   return (
-    <section className="py-12 xl:py-24 h-[100vh] xl:pt-9 bg-[#ffffff] bg-no-repeat bg-bottom bg-cover dark:bg-none flex items-center justify-center">
+    <section className="py-12 xl:py-24 h-[100vh] xl:pt-9 bg-hero bg-no-repeat bg-bottom bg-cover dark:bg-none flex items-center justify-center">
       <div className="container mx-auto flex flex-col items-center text-center">
         <div className="text-md uppercase font-bold mb-2 text-yellow-600 dark:text-primary tracking-[5px]">
           Web Developer & UI/UX
