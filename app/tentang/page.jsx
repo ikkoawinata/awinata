@@ -385,6 +385,10 @@ import { SiTypescript } from "react-icons/si";
 import { IoLogoVercel } from "react-icons/io5";
 import { SiVisualstudiocode } from "react-icons/si";
 import { SiMysql } from "react-icons/si";
+import { usePathname } from "next/navigation";
+
+
+
 
 const BrandingSection = () => {
   const [isDarkMode, setIsDarkMode] = useState(false);
@@ -432,7 +436,7 @@ const BrandingSection = () => {
             </p>
             <div className="flex space-x-8 mb-36 text-sm text-primary">
               <a
-                href="./projects/"
+                href="./projects"
                 className="text-sm font-medium text-yellow-600 dark:text-primary hover:text-yellow-500 dark:hover:text-yellow-300 transition"
               >
                 Explore My Work
