@@ -421,12 +421,12 @@ const posts = [
   {
     id: 10,
     title: "Computer Network",
-    href: "./Computer-Network/",
+    href: "./computernetwork/",
     description:
       "In this project, I designed a school computer network that covers 11 rooms using Cisco Packet Tracer. This project combines various network topologies to ensure optimal connectivity throughout the school area. Each room, including the computer lab, teachers room, administration room, and classrooms, is connected through a combination of star, bus, and mesh topologies. This infrastructure is designed to support various network services such as FTP, DNS, and DHCP",
     date: "November 29, 2023",
     datetime: "2024-08  -10",
-    category: { title: "More", href: "./projects/Computer-Network/" },
+    category: { title: "More", href: "/app/projects/computernetwork/" },
     author: {
       name: "Michael Foster",
       role: "Co-Founder / CTO",
