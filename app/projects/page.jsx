@@ -473,19 +473,19 @@ const posts = [
 
 const design = [
   {
-    id: 10,
-    title: "Protect Your Privacy If You Wanna Alive ",
-    href: "./app/design1/",
+    id: 11,
+    title: "3rd Place in Infographic Challenge",
+    href: "./app/design2/",
     description:
       'Cyber Security Competition Activities in 2022 with the theme "Protect Your Privacy For Millennial Generation" organized by the Informatics Engineering Student Association Faculty of Engineering, Surabaya State University',
-    date: "September 19, 2022",
-    datetime: "2024-08  -10",
-    category: { title: "More", href: "./design1/" },
+    date: "June 25, 2022",
+    datetime: "2022-06-25",
+    category: { title: "More", href: "/app/design2/" },
     author: {
       name: "Michael Foster",
       role: "Co-Founder / CTO",
       href: "",
-      imageUrl: "./hero/port1.png/", // Gambar placeholder
+      imageUrl: "./hero/port3.png", // Gambar placeholder
     },
     marketingTags: ["CorelDRAW"], // Menambahkan tag marketing sebagai contoh
   },
