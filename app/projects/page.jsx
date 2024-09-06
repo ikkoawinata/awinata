@@ -464,16 +464,16 @@ const posts = [
   {
     id: 12,
     title: "Second Personal Website Development",
-    href: "https://ikkoawinata.github.io/awinata/",
+    href: "https://awinata.vercel.app/",
     description:
       " Build development from the first personal website before. This project using NextJS, Tailwind, Framer Motion for little animation view",
     date: "September 5, 2024",
     datetime: "2024-08  -10",
-    category: { title: "More", href: "" },
+    category: { title: "More", href: "https://awinata.vercel.app/" },
     author: {
       name: "Michael Foster",
       role: "Co-Founder / CTO",
-      href: "",
+      href: "https://awinata.vercel.app/",
       imageUrl: "./hero/web2.png", // Gambar placeholder
     },
     marketingTags: ["Reactjs", "Tailwind", "Framer Motion", "NextJS"], // Menambahkan tag marketing sebagai contoh
