@@ -50,7 +50,7 @@ const Candidates = () => {
       <section className="py-2 md:py-4 xl:py-40 h-auto md:h-auto xl:h-auto xl:pt-0 bg-no-repeat bg-bottom dark:bg-none relative flex items-center justify-center">
         <div className="w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg mx-auto p-1 md:p-3 xl:p-5">
           <img
-            src="/work/sertif1.png"
+            src="./hero/sertif1.png"
             alt="Another Descriptive Alt Text"
             className="w-full h-auto object-cover"
           />
