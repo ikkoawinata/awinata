@@ -473,7 +473,7 @@ const posts = [
 
 const design = [
   {
-    id: 11,
+    id: 13,
     title: "3rd Place in Infographic Challenge",
     href: "./app/design2/",
     description:
@@ -490,7 +490,7 @@ const design = [
     marketingTags: ["CorelDRAW"], // Menambahkan tag marketing sebagai contoh
   },
   {
-    id: 11,
+    id: 14,
     title: "3rd Place in Infographic Challenge",
     href: "./app/design2/",
     description:
@@ -507,7 +507,7 @@ const design = [
     marketingTags: ["CorelDRAW"], // Menambahkan tag marketing sebagai contoh
   },
   {
-    id: 12,
+    id: 15,
     title: "Perkembangan Teknologi Informasi Era Digital 5.0",
     href: "./app/design3/",
     description:
@@ -524,7 +524,7 @@ const design = [
     marketingTags: ["CorelDRAW"], // Menambahkan tag marketing sebagai contoh
   },
   {
-    id: 14,
+    id: 16,
     title: "Lestarikan Alam Hijau Untuk Masa Depan Bumi Kita ",
     href: "./app/design4/",
     description:
@@ -544,7 +544,7 @@ const design = [
 
 const photography = [
   {
-    id: 15,
+    id: 17,
     title: "",
     description:
       '',
@@ -558,7 +558,7 @@ const photography = [
     } // Menambahkan tag marketing sebagai contoh
   },
   {
-    id: 16,
+    id: 18,
     title: " ",
     description:
       '',
@@ -572,7 +572,7 @@ const photography = [
     } // Menambahkan tag marketing sebagai contoh
   },
   {
-    id: 17,
+    id: 19,
     title: " ",
     description:
       '',
@@ -586,7 +586,7 @@ const photography = [
     } // Menambahkan tag marketing sebagai contoh
   },
   {
-    id: 18,
+    id: 20,
     title: " ",
     description:
       '',
@@ -600,7 +600,7 @@ const photography = [
     } // Menambahkan tag marketing sebagai contoh
   },
   {
-    id: 19,
+    id: 21,
     title: " ",
     description:
       '',
@@ -614,7 +614,7 @@ const photography = [
     } // Menambahkan tag marketing sebagai contoh
   },
   {
-    id: 20,
+    id: 22,
     title: " ",
     description:
       '',
@@ -628,7 +628,7 @@ const photography = [
     } // Menambahkan tag marketing sebagai contoh
   },
   {
-    id: 21,
+    id: 23,
     title: " ",
     description:
       '',
@@ -642,7 +642,7 @@ const photography = [
     } // Menambahkan tag marketing sebagai contoh
   },
   {
-    id: 22,
+    id: 24,
     title: " ",
     description:
       '',
@@ -656,7 +656,7 @@ const photography = [
     } // Menambahkan tag marketing sebagai contoh
   },
   {
-    id: 23,
+    id: 25,
     title: " ",
     description:
       '',
@@ -670,7 +670,7 @@ const photography = [
     } // Menambahkan tag marketing sebagai contoh
   },
   {
-    id: 24,
+    id: 26,
     title: " ",
     description:
       '',
@@ -684,7 +684,7 @@ const photography = [
     } // Menambahkan tag marketing sebagai contoh
   },
   {
-    id: 25,
+    id: 27,
     title: " ",
     description:
       '',
