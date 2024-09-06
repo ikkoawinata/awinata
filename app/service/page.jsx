@@ -196,7 +196,7 @@ function Services() {
           {/* Gambar di sebelah kiri atau di atas pada breakpoints kecil */}
           <div className="flex-none w-full lg:w-1/2 p-2">
             <img
-              src="/work/katalog.png"
+              src="./hero/katalog.png"
               alt="IKKO Awinata Cell Services"
               className="rounded-lg w-full"
             />
@@ -519,7 +519,7 @@ function Services() {
             {/* Service 6 */}
             <div className="bg-white dark:bg-gray-900 rounded-lg shadow-lg overflow-hidden flex flex-col lg:flex-row items-center">
               <img
-                src="./hero/List6.PNG"
+                src="./hero/List6.png"
                 alt="Service 5"
                 className="w-full lg:w-1/3 object-cover"
               />
