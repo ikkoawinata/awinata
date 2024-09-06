@@ -60,7 +60,7 @@ import { motion } from "framer-motion";
 // links data
 const links = [
 
-  { path: "/home", name: "Home" },
+  { path: "/", name: "Home" },
   { path: "/tentang", name: "About" },
   { path: "/projects", name: "Projects" },
   // { path: "/blog", name: "Blog" },
