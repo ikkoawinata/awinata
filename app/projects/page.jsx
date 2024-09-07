@@ -256,7 +256,7 @@ const posts = [
     date: "May 10, 2024",
     datetime: "2024-05-10",
     category: {
-      title: "Link",
+      title: "More",
       href: "https://www.behance.net/gallery/198229151/Personal-Website-(AwinataX)",
     },
     author: {
@@ -275,7 +275,7 @@ const posts = [
     date: "May 10, 2024",
     datetime: "2024-05-10",
     category: {
-      title: "Link",
+      title: "More",
       href: "https://www.behance.net/gallery/198230843/AwinataX-New-Logo",
     },
     author: {
@@ -295,7 +295,7 @@ const posts = [
     date: "May 10, 2024",
     datetime: "2024-05-10",
     category: {
-      title: "Link",
+      title: "More",
       href: "https://www.behance.net/gallery/198231291/Sengoku-Basara-(UI-Design)",
     },
     author: {
@@ -315,7 +315,7 @@ const posts = [
     date: "May 14, 2024",
     datetime: "2024-05-14",
     category: {
-      title: "Link",
+      title: "More",
       href: "https://www.behance.net/gallery/198520153/1-Logo-Animation",
     },
     author: {
@@ -335,7 +335,7 @@ const posts = [
     date: "May 21, 2024",
     datetime: "2024-05-21",
     category: {
-      title: "Link",
+      title: "More",
       href: "https://www.behance.net/gallery/199109427/2-Stomp-Typography-After-Effects-Edit-Project-2",
     },
     author: {
@@ -355,7 +355,7 @@ const posts = [
     date: "June 3, 2024",
     datetime: "2024-06-3",
     category: {
-      title: "Link",
+      title: "More",
       href: "https://www.behance.net/gallery/200099671/CloudBeauty-Register-Page-(UI-Design)",
     },
     author: {
@@ -376,7 +376,7 @@ const posts = [
     date: "June 24, 2024",
     datetime: "2024-06-24",
     category: {
-      title: "Link",
+      title: "More",
       href: "https://www.behance.net/gallery/201660997/Interactive-Tab-Bar-Menu",
     },
     author: {
@@ -396,7 +396,7 @@ const posts = [
     date: "July 9, 2024",
     datetime: "2024-07-9",
     category: {
-      title: "Link",
+      title: "More",
       href: "https://www.behance.net/gallery/202859285/Redesign-Website-Unilever-Indonesia",
     },
     author: {
@@ -416,7 +416,7 @@ const posts = [
     date: "August 10, 2024",
     datetime: "2024-08  -10",
     category: {
-      title: "Link",
+      title: "More",
       href: "https://github.com/ikkoawinata/MultiCalcPro-app/tree/ikkoawinata.github.io",
     },
     author: {
@@ -504,7 +504,7 @@ const design = [
     href: "./design1",
     description:
       'Cyber Security Competition Activities in 2022 with the theme "Protect Your Privacy For Millennial Generation" organized by the Informatics Engineering Student Association Faculty of Engineering, Surabaya State University',
-    date: "June 25, 2022",
+    date: "September 19, 2022",
     datetime: "2022-06-25",
     category: { title: "More", href: "./design1" },
     author: {
